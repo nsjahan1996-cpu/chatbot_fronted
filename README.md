@@ -24,4 +24,10 @@ This project features a floating chat icon, hover options for Telegram/WhatsApp/
 
 
 ## File Structure
+chatbot-frontend/
+│
+├─ index.html ← Main HTML file
+├─ style.css ← CSS for styling
+├─ script.js ← JavaScript for functionality
+└─ README.md ← This file
 
